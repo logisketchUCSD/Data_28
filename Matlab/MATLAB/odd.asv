@@ -1,0 +1,5 @@
+function xx= odd(n)
+xx=[];
+for i =1:2:2*n+1
+    xx =[xx i];
+end

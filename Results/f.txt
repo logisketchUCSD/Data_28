@@ -1,0 +1,52 @@
+01_EQ1_UCR_P.labeled
+Label	Label	Gate	Label	Label	Gate	Gate	Wire	Wire	Gate	Gate	Wire	Wire	Wire	Gate	Gate	Wire	Wire	Gate	Wire	Gate	Gate	Wire	Wire	Wire	Gate	Gate	Gate	Wire	Wire	Wire	Gate	Gate	Wire	Wire	Wire	Label	
+Label	Label	Label	Label	Label	Gate	Gate	Wire	Wire	Gate	Gate	Wire	Wire	Wire	Gate	Gate	Wire	Wire	Gate	Wire	Gate	Gate	Wire	Wire	Wire	Gate	Gate	Gate	Wire	Wire	Wire	Gate	Gate	Wire	Wire	Wire	Label	
+
+same	same	diff	diff	diff	diff	same	diff	diff	diff	same	diff	diff	same	diff	same	diff	diff	diff	diff	diff	same	diff	diff	diff	diff	same	same	diff	diff	diff	diff	same	diff	diff	diff	diff	
+same	same	diff	same	diff	diff	same	diff	diff	diff	same	diff	diff	same	diff	same	diff	diff	diff	diff	diff	same	diff	diff	diff	diff	same	same	diff	diff	diff	diff	same	diff	diff	diff	diff	
+
+sCsG	sCsG	dCdG	dCdG	sCdG	dCdG	sCsG	dCdG	sCdG	dCdG	sCsG	dCdG	sCdG	sCsG	dCdG	sCsG	dCdG	sCdG	dCdG	dCdG	dCdG	sCsG	dCdG	sCdG	sCdG	dCdG	sCsG	sCsG	dCdG	sCdG	sCdG	dCdG	sCsG	dCdG	sCdG	sCdG	dCdG	
+sCsG	sCsG	sCdG	sCsG	sCdG	dCdG	sCsG	dCdG	sCdG	dCdG	sCsG	dCdG	sCdG	sCsG	dCdG	sCsG	dCdG	sCdG	dCdG	dCdG	dCdG	sCsG	dCdG	sCdG	sCdG	dCdG	sCsG	sCsG	dCdG	sCdG	sCdG	dCdG	sCsG	dCdG	sCdG	sCdG	dCdG	
+
+sLsG	sLsG	dLdG	dGdG	sLdG	dLdG	sGsG	dGdG	sWdG	dWdG	sGsG	dGdG	sWdG	sWsG	dWdG	sGsG	dGdG	sWdG	dWdG	dGdG	dWdG	sGsG	dGdG	sWdG	sWdG	dWdG	sGsG	sGsG	dGdG	sWdG	sWdG	dWdG	sGsG	dGdG	sWdG	sWdG	dWdG	
+sLsG	sLsG	sLdG	sLsG	sLdG	dLdG	sGsG	dGdG	sWdG	dWdG	sGsG	dGdG	sWdG	sWsG	dWdG	sGsG	dGdG	sWdG	dWdG	dGdG	dWdG	sGsG	dGdG	sWdG	sWdG	dWdG	sGsG	sGsG	dGdG	sWdG	sWdG	dWdG	sGsG	dGdG	sWdG	sWdG	dWdG	
+
+01_EQ1_UCR_T.labeled
+Label	Label	Label	Label	Label	Label	Gate	Gate	Wire	Wire	Gate	Gate	Wire	Wire	Wire	Gate	Gate	Gate	Gate	Wire	Wire	Wire	Gate	Gate	Gate	Wire	Wire	Gate	Gate	Gate	Wire	Wire	Wire	Wire	Wire	Label	
+Label	Label	Label	Label	Label	Label	Gate	Gate	Wire	Wire	Gate	Gate	Wire	Wire	Wire	Gate	Gate	Gate	Gate	Wire	Wire	Wire	Gate	Gate	Gate	Wire	Wire	Gate	Gate	Gate	Wire	Wire	Wire	Wire	Wire	Label	
+
+same	same	same	diff	same	diff	diff	same	diff	diff	diff	same	diff	diff	same	diff	diff	same	same	diff	same	diff	diff	same	same	diff	diff	diff	same	same	diff	diff	diff	diff	diff	diff	
+same	same	same	diff	same	diff	diff	same	diff	diff	diff	same	diff	diff	same	diff	diff	same	same	diff	same	diff	diff	same	same	diff	diff	diff	same	same	diff	diff	same	diff	diff	diff	
+
+sCsG	sCsG	sCsG	sCdG	sCsG	sCdG	dCdG	sCsG	dCdG	sCdG	dCdG	sCsG	dCdG	sCdG	sCsG	dCdG	sCdG	sCsG	sCsG	dCdG	sCsG	sCdG	dCdG	sCsG	sCsG	dCdG	sCdG	dCdG	sCsG	sCsG	dCdG	sCdG	sCdG	sCdG	sCdG	dCdG	
+sCsG	sCsG	sCsG	sCdG	sCsG	sCdG	dCdG	sCsG	dCdG	sCdG	dCdG	sCsG	dCdG	sCdG	sCsG	dCdG	sCdG	sCsG	sCsG	dCdG	sCsG	sCdG	dCdG	sCsG	sCsG	dCdG	sCdG	dCdG	sCsG	sCsG	dCdG	sCdG	sCsG	sCdG	sCdG	dCdG	
+
+sLsG	sLsG	sLsG	sLdG	sLsG	sLdG	dLdG	sGsG	dGdG	sWdG	dWdG	sGsG	dGdG	sWdG	sWsG	dWdG	sGdG	sGsG	sGsG	dGdG	sWsG	sWdG	dWdG	sGsG	sGsG	dGdG	sWdG	dWdG	sGsG	sGsG	dGdG	sWdG	sWdG	sWdG	sWdG	dWdG	
+sLsG	sLsG	sLsG	sLdG	sLsG	sLdG	dLdG	sGsG	dGdG	sWdG	dWdG	sGsG	dGdG	sWdG	sWsG	dWdG	sGdG	sGsG	sGsG	dGdG	sWsG	sWdG	dWdG	sGsG	sGsG	dGdG	sWdG	dWdG	sGsG	sGsG	dGdG	sWdG	sWsG	sWdG	sWdG	dWdG	
+
+01_EQ2_UCR_P.labeled
+Label	Label	Label	Label	Label	Label	Gate	Gate	Wire	Wire	Gate	Gate	Gate	Wire	Wire	Gate	Gate	Wire	Wire	Gate	Wire	Wire	Gate	Gate	Wire	Gate	Wire	Gate	Gate	Wire	Wire	Wire	Wire	Wire	Label	
+Label	Label	Label	Label	Label	Label	Gate	Gate	Wire	Wire	Wire	Gate	Gate	Wire	Wire	Gate	Gate	Wire	Wire	Gate	Wire	Wire	Gate	Gate	Wire	Gate	Wire	Gate	Gate	Wire	Wire	Wire	Wire	Wire	Label	
+
+same	same	same	diff	same	diff	diff	same	diff	diff	diff	diff	same	diff	diff	diff	same	diff	diff	diff	diff	diff	diff	same	diff	diff	diff	diff	same	diff	diff	diff	diff	diff	diff	
+same	same	same	diff	same	diff	diff	same	diff	diff	same	diff	same	diff	diff	diff	same	diff	diff	diff	diff	diff	diff	same	diff	diff	diff	diff	same	diff	diff	diff	same	diff	diff	
+
+sCsG	sCsG	sCsG	sCdG	sCsG	sCdG	dCdG	sCsG	dCdG	sCdG	dCdG	sCdG	sCsG	dCdG	sCdG	dCdG	sCsG	dCdG	sCdG	dCdG	dCdG	sCdG	dCdG	sCsG	dCdG	dCdG	dCdG	dCdG	sCsG	dCdG	sCdG	sCdG	sCdG	sCdG	dCdG	
+sCsG	sCsG	sCsG	sCdG	sCsG	sCdG	dCdG	sCsG	dCdG	sCdG	sCsG	dCdG	sCsG	dCdG	sCdG	dCdG	sCsG	dCdG	sCdG	dCdG	dCdG	sCdG	dCdG	sCsG	dCdG	dCdG	dCdG	dCdG	sCsG	dCdG	sCdG	sCdG	sCsG	sCdG	dCdG	
+
+sLsG	sLsG	sLsG	sLdG	sLsG	sLdG	dLdG	sGsG	dGdG	sWdG	dWdG	sGdG	sGsG	dGdG	sWdG	dWdG	sGsG	dGdG	sWdG	dWdG	dGdG	sWdG	dWdG	sGsG	dGdG	dWdG	dGdG	dWdG	sGsG	dGdG	sWdG	sWdG	sWdG	sWdG	dWdG	
+sLsG	sLsG	sLsG	sLdG	sLsG	sLdG	dLdG	sGsG	dGdG	sWdG	sWsG	dWdG	sGsG	dGdG	sWdG	dWdG	sGsG	dGdG	sWdG	dWdG	dGdG	sWdG	dWdG	sGsG	dGdG	dWdG	dGdG	dWdG	sGsG	dGdG	sWdG	sWdG	sWsG	sWdG	dWdG	
+
+01_EQ2_UCR_T.labeled
+Label	Gate	Label	Label	Label	Label	Label	Gate	Gate	Wire	Wire	Gate	Gate	Gate	Wire	Gate	Wire	Gate	Gate	Gate	Gate	Wire	Wire	Gate	Gate	Wire	Wire	Gate	Gate	Wire	Wire	Wire	Gate	Gate	Wire	Wire	Wire	Label	
+Label	Label	Label	Label	Label	Label	Label	Gate	Gate	Wire	Wire	Gate	Gate	Gate	Wire	Gate	Wire	Gate	Gate	Gate	Gate	Wire	Wire	Gate	Gate	Wire	Wire	Gate	Gate	Wire	Wire	Wire	Gate	Gate	Wire	Wire	Wire	Label	
+
+same	diff	diff	same	diff	same	diff	diff	same	diff	diff	diff	same	same	diff	diff	diff	diff	same	same	same	diff	diff	diff	same	diff	diff	diff	same	diff	diff	diff	diff	same	diff	diff	diff	diff	
+same	same	same	same	diff	same	diff	diff	same	diff	diff	diff	same	same	diff	diff	diff	diff	same	same	same	diff	diff	diff	same	diff	diff	diff	same	diff	diff	diff	diff	same	diff	diff	diff	diff	
+
+sCsG	dCdG	dCdG	sCsG	sCdG	sCsG	sCdG	dCdG	sCsG	dCdG	sCdG	dCdG	sCsG	sCsG	dCdG	dCdG	dCdG	dCdG	sCsG	sCsG	sCsG	dCdG	sCdG	dCdG	sCsG	dCdG	sCdG	dCdG	sCsG	dCdG	sCdG	sCdG	dCdG	sCsG	dCdG	sCdG	sCdG	dCdG	
+sCsG	sCsG	sCsG	sCsG	sCdG	sCsG	sCdG	dCdG	sCsG	dCdG	sCdG	dCdG	sCsG	sCsG	dCdG	dCdG	dCdG	dCdG	sCsG	sCsG	sCsG	dCdG	sCdG	dCdG	sCsG	dCdG	sCdG	dCdG	sCsG	dCdG	sCdG	sCdG	dCdG	sCsG	dCdG	sCdG	sCdG	dCdG	
+
+sLsG	dLdG	dGdG	sLsG	sLdG	sLsG	sLdG	dLdG	sGsG	dGdG	sWdG	dWdG	sGsG	sGsG	dGdG	dWdG	dGdG	dWdG	sGsG	sGsG	sGsG	dGdG	sWdG	dWdG	sGsG	dGdG	sWdG	dWdG	sGsG	dGdG	sWdG	sWdG	dWdG	sGsG	dGdG	sWdG	sWdG	dWdG	
+sLsG	sLsG	sLsG	sLsG	sLdG	sLsG	sLdG	dLdG	sGsG	dGdG	sWdG	dWdG	sGsG	sGsG	dGdG	dWdG	dGdG	dWdG	sGsG	sGsG	sGsG	dGdG	sWdG	dWdG	sGsG	dGdG	sWdG	dWdG	sGsG	dGdG	sWdG	sWdG	dWdG	sGsG	dGdG	sWdG	sWdG	dWdG	
+

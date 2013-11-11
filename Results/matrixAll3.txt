@@ -1,0 +1,166 @@
+Labels PI
+80
+111
+4
+Labels A
+	Gate	Label	Wire
+Gate	2607	290	1261	
+Label	265	761	299	
+Wire	1352	275	2509	
+
+
+Labels B
+	Gate	Label	Wire
+Gate	3978	120	181	
+Label	98	1290	12	
+Wire	161	25	3946	
+
+
+
+Labels Perfect PI
+80
+111
+4
+Labels A Perfect
+	Gate	Label	Wire
+Gate	2828	196	1173	
+Label	200	805	289	
+Wire	1240	288	2600	
+
+
+
+
+Labels Generic PI
+1
+193
+Labels Generic A
+	Different	Same
+Different	1205	2533	
+Same	2476	3400	
+
+
+Labels Generic B
+	Different	Same
+Different	3128	254	
+Same	610	5814	
+
+
+
+Labels Generic Perfect PI
+1
+193
+Labels Generic A Perfect
+	Different	Same
+Different	843	2539	
+Same	2485	3747	
+
+
+
+Groups Generic PI
+1
+193
+Groups Generic A
+	Different	Same
+Different	2790	2512	
+Same	2427	1885	
+
+
+Groups Generic B
+	Different	Same
+Different	4813	784	
+Same	489	3720	
+
+
+
+Groups Generic Perfect PI
+1
+193
+Groups Generic A Perfect
+	Different	Same
+Different	3117	2480	
+Same	2395	1622	
+
+
+
+Bits Generic PI
+1
+1
+193
+Bits Generic A
+	dCdG	sCdG	sCsG
+dCdG	1205	588	1946	
+sCdG	583	417	567	
+sCsG	1894	534	1885	
+
+
+Bits Generic B
+	dCdG	sCdG	sCsG
+dCdG	3128	70	185	
+sCdG	147	1471	600	
+sCsG	464	26	3720	
+
+
+
+Bits Generic Perfect PI
+1
+1
+193
+Bits Generic A Perfect
+	dCdG	sCdG	sCsG
+dCdG	843	790	1750	
+sCdG	770	717	731	
+sCsG	1716	680	1622	
+
+
+
+Bits Specific PI
+1
+1
+80
+1
+111
+1
+4
+Bits Specific A
+	dCdG	sGdG	sGsG	sLdG	sLsG	sWdG	sWsG
+dCdG	1205	39	1207	100	247	451	494	
+sGdG	61	11	208	1	1	1	1	
+sGsG	1112	230	990	1	1	1	1	
+sLdG	35	1	1	50	146	1	1	
+sLsG	282	1	1	79	174	1	1	
+sWdG	489	1	1	1	1	358	215	
+sWsG	502	1	1	1	1	227	723	
+
+
+Bits Specific B
+	dCdG	sGdG	sGsG	sLdG	sLsG	sWdG	sWsG
+dCdG	3128	22	56	21	25	29	106	
+sGdG	20	253	26	3	1	1	1	
+sGsG	266	2	2294	1	31	5	19	
+sLdG	35	2	2	204	2	1	1	
+sLsG	67	1	20	2	585	1	1	
+sWdG	94	3	4	3	1	1009	570	
+sWsG	133	1	13	1	4	20	761	
+
+
+
+Bits Specific Perfect PI
+1
+1
+80
+1
+111
+1
+4
+Bits Specific A Perfect
+	dCdG	sGdG	sGsG	sLdG	sLsG	sWdG	sWsG
+dCdG	843	43	1253	96	231	653	268	
+sGdG	44	21	236	1	1	1	1	
+sGsG	1178	237	1117	1	1	1	1	
+sLdG	14	1	1	58	171	1	1	
+sLsG	288	1	1	88	191	1	1	
+sWdG	714	1	1	1	1	640	326	
+sWsG	252	1	1	1	1	357	316	
+
+
+

@@ -1,0 +1,192 @@
+01
+	Gate	Label	Wire
+Gate	192	3	3	
+Label	1	57	0	
+Wire	1	0	122	
+
+
+
+02
+	Gate	Label	Wire
+Gate	132	1	5	
+Label	2	41	0	
+Wire	2	1	153	
+
+
+
+03
+	Gate	Label	Wire
+Gate	134	1	3	
+Label	2	61	0	
+Wire	3	0	136	
+
+
+
+04
+	Gate	Label	Wire
+Gate	151	0	4	
+Label	4	43	1	
+Wire	9	0	170	
+
+
+
+05
+	Gate	Label	Wire
+Gate	101	1	12	
+Label	8	49	0	
+Wire	3	0	133	
+
+
+
+06
+	Gate	Label	Wire
+Gate	181	10	4	
+Label	3	64	1	
+Wire	4	1	146	
+
+
+
+07
+	Gate	Label	Wire
+Gate	173	0	2	
+Label	7	66	0	
+Wire	5	0	138	
+
+
+
+08
+	Gate	Label	Wire
+Gate	295	25	17	
+Label	9	52	2	
+Wire	7	1	169	
+
+
+
+09
+	Gate	Label	Wire
+Gate	169	9	6	
+Label	0	60	0	
+Wire	4	1	184	
+
+
+
+10
+	Gate	Label	Wire
+Gate	165	1	3	
+Label	1	51	0	
+Wire	4	0	156	
+
+
+
+11
+	Gate	Label	Wire
+Gate	215	24	12	
+Label	5	40	2	
+Wire	8	1	205	
+
+
+
+12
+	Gate	Label	Wire
+Gate	188	4	9	
+Label	4	56	1	
+Wire	2	0	132	
+
+
+
+13
+	Gate	Label	Wire
+Gate	173	0	3	
+Label	6	54	0	
+Wire	9	6	169	
+
+
+
+14
+	Gate	Label	Wire
+Gate	135	0	18	
+Label	1	44	2	
+Wire	12	2	172	
+
+
+
+15
+	Gate	Label	Wire
+Gate	170	0	10	
+Label	6	56	0	
+Wire	10	5	195	
+
+
+
+16
+	Gate	Label	Wire
+Gate	170	3	20	
+Label	8	48	2	
+Wire	9	1	230	
+
+
+
+17
+	Gate	Label	Wire
+Gate	112	2	7	
+Label	5	44	0	
+Wire	4	0	133	
+
+
+
+18
+	Gate	Label	Wire
+Gate	186	18	6	
+Label	2	61	0	
+Wire	9	1	181	
+
+
+
+19
+	Gate	Label	Wire
+Gate	148	0	4	
+Label	3	56	0	
+Wire	1	0	130	
+
+
+
+20
+	Gate	Label	Wire
+Gate	148	2	2	
+Label	11	43	0	
+Wire	4	1	179	
+
+
+
+21
+	Gate	Label	Wire
+Gate	171	12	11	
+Label	0	42	2	
+Wire	29	1	190	
+
+
+
+22
+	Gate	Label	Wire
+Gate	165	0	11	
+Label	3	57	0	
+Wire	5	0	181	
+
+
+
+23
+	Gate	Label	Wire
+Gate	137	0	17	
+Label	8	66	1	
+Wire	6	1	171	
+
+
+
+24
+	Gate	Label	Wire
+Gate	151	0	9	
+Label	12	61	0	
+Wire	8	0	173	
+
+
+

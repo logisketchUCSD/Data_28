@@ -1,0 +1,181 @@
+Labels
+4
+0
+0
+
+	Gate	Label	Wire
+Gate	58	2	14	
+Label	1	7	14	
+Wire	17	12	47	
+
+
+
+77
+20
+72
+
+Labels Perfect
+4
+0
+0
+
+	Gate	Label	Wire
+Gate	63	1	14	
+Label	0	6	15	
+Wire	18	12	43	
+
+
+
+
+Labels Generic
+0
+4
+
+	Different	Same
+Different	26	34	
+Same	31	81	
+
+
+
+55
+111
+
+Labels Generic Perfect
+0
+4
+
+	Different	Same
+Different	26	34	
+Same	31	81	
+
+
+
+Groups Generic
+0
+4
+
+	Different	Same
+Different	56	47	
+Same	43	26	
+
+
+
+98
+66
+
+Groups Generic Perfect
+0
+4
+
+	Different	Same
+Different	58	47	
+Same	43	24	
+
+
+
+Bits Generic
+0
+0
+0
+4
+
+	dCdG	dCsG	sCdG	sCsG
+dCdG	26	0	10	24	
+dCsG	0	0	0	0	
+sCdG	8	0	12	23	
+sCsG	23	0	20	26	
+
+
+
+55
+0
+42
+66
+
+Bits Generic Perfect
+0
+0
+0
+4
+
+	dCdG	dCsG	sCdG	sCsG
+dCdG	26	0	12	22	
+dCsG	0	0	0	0	
+sCdG	9	0	11	25	
+sCsG	22	0	21	24	
+
+
+
+Bits Specific
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+
+	dGdG	dGsG	dLdG	dLsG	dWdG	dWsG	sGdG	sGsG	sLdG	sLsG	sWdG	sWsG
+dGdG	0	0	2	0	4	0	0	0	0	0	4	6	
+dGsG	0	0	0	0	0	0	0	0	0	0	0	0	
+dLdG	1	0	0	0	8	0	0	0	0	0	4	2	
+dLsG	0	0	0	0	0	0	0	0	0	0	0	0	
+dWdG	4	0	7	0	0	0	0	13	2	3	0	0	
+dWsG	0	0	0	0	0	0	0	0	0	0	0	0	
+sGdG	0	0	0	0	0	0	0	16	0	0	0	0	
+sGsG	9	0	0	0	0	0	16	17	0	0	0	0	
+sLdG	0	0	2	0	0	0	0	0	2	0	0	0	
+sLsG	0	0	3	0	0	0	0	0	0	0	0	0	
+sWdG	0	0	0	0	6	0	0	0	0	0	10	7	
+sWsG	0	0	0	0	11	0	0	0	0	0	4	9	
+
+
+
+11
+0
+13
+0
+29
+0
+16
+46
+3
+3
+23
+17
+
+Bits Specific Perfect
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+
+	dGdG	dGsG	dLdG	dLsG	dWdG	dWsG	sGdG	sGsG	sLdG	sLsG	sWdG	sWsG
+dGdG	0	0	1	0	7	0	0	0	0	0	4	3	
+dGsG	0	0	0	0	0	0	0	0	0	0	0	0	
+dLdG	0	0	0	0	9	0	0	0	0	0	6	0	
+dLsG	0	0	0	0	0	0	0	0	0	0	0	0	
+dWdG	2	0	7	0	0	0	0	16	2	3	0	0	
+dWsG	0	0	0	0	0	0	0	0	0	0	0	0	
+sGdG	0	0	0	0	0	0	0	16	0	0	0	0	
+sGsG	12	0	0	0	0	0	16	19	0	0	0	0	
+sLdG	0	0	2	0	0	0	0	0	1	0	0	0	
+sLsG	0	0	3	0	0	0	0	0	0	0	0	0	
+sWdG	0	0	0	0	7	0	0	0	0	0	10	9	
+sWsG	0	0	0	0	7	0	0	0	0	0	5	5	
+
+
+

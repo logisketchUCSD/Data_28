@@ -1,0 +1,6 @@
+	Gate	Label	Wire
+Gate	322	6	8	
+Label	3	98	0	
+Wire	3	1	275	
+
+

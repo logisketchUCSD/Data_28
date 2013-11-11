@@ -1,0 +1,181 @@
+Labels PI
+0
+4
+0
+A
+	Gate	Label	Wire
+Gate	31	6	22	
+Label	2	16	4	
+Wire	26	0	35	
+
+
+B	Count
+56	59
+26	26
+61	61
+
+Labels Perfect PI
+0
+4
+0
+A Perfect
+	Gate	Label	Wire
+Gate	30	4	22	
+Label	0	20	4	
+Wire	26	0	36	
+
+
+
+
+Labels Generic PI
+0
+4
+A
+	Different	Same
+Different	11	49	
+Same	45	37	
+
+
+B	Count
+55	60
+85	86
+
+Labels Generic Perfect PI
+0
+4
+A Perfect
+	Different	Same
+Different	9	47	
+Same	43	43	
+
+
+
+Groups Generic PI
+0
+4
+A
+	Different	Same
+Different	68	33	
+Same	29	12	
+
+
+B	Count
+95	101
+45	45
+
+Groups Generic Perfect PI
+0
+4
+A Perfect
+	Different	Same
+Different	59	36	
+Same	32	15	
+
+
+
+Bits Generic PI
+0
+0
+0
+4
+A
+	dCdG	dCsG	sCdG	sCsG
+dCdG	11	0	23	26	
+dCsG	0	0	0	0	
+sCdG	23	0	11	7	
+sCsG	22	0	7	12	
+
+
+B	Count
+55	60
+0	0
+38	41
+45	45
+
+Bits Generic Perfect PI
+0
+0
+0
+4
+A Perfect
+	dCdG	dCsG	sCdG	sCsG
+dCdG	9	0	22	25	
+dCsG	0	0	0	0	
+sCdG	21	0	7	11	
+sCsG	22	0	10	15	
+
+
+
+Bits Specific PI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+A
+	dGdG	dGsG	dLdG	dLsG	dWdG	dWsG	sGdG	sGsG	sLdG	sLsG	sWdG	sWsG
+dGdG	0	0	0	0	5	0	0	0	4	2	15	2	
+dGsG	0	0	0	0	0	0	0	0	0	0	0	0	
+dLdG	2	0	0	0	0	0	0	0	0	0	4	0	
+dLsG	0	0	0	0	0	0	0	0	0	0	0	0	
+dWdG	4	0	0	0	0	0	0	22	0	0	0	0	
+dWsG	0	0	0	0	0	0	0	0	0	0	0	0	
+sGdG	2	0	0	0	0	0	0	0	0	0	0	0	
+sGsG	20	0	0	0	0	0	2	7	0	0	0	0	
+sLdG	0	0	1	0	0	0	0	0	0	6	0	0	
+sLsG	0	0	1	0	0	0	0	0	3	5	0	0	
+sWdG	0	0	0	0	20	0	0	0	0	0	11	1	
+sWsG	0	0	0	0	1	0	0	0	0	0	2	0	
+
+
+B	Count
+25	28
+0	0
+4	6
+0	0
+26	26
+0	0
+1	2
+29	29
+7	7
+13	13
+30	32
+3	3
+
+Bits Specific Perfect PI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+A Perfect
+	dGdG	dGsG	dLdG	dLsG	dWdG	dWsG	sGdG	sGsG	sLdG	sLsG	sWdG	sWsG
+dGdG	0	0	0	0	5	0	0	0	4	0	14	3	
+dGsG	0	0	0	0	0	0	0	0	0	0	0	0	
+dLdG	0	0	0	0	0	0	0	0	0	0	4	0	
+dLsG	0	0	0	0	0	0	0	0	0	0	0	0	
+dWdG	4	0	0	0	0	0	0	22	0	0	0	0	
+dWsG	0	0	0	0	0	0	0	0	0	0	0	0	
+sGdG	1	0	0	0	0	0	0	0	0	0	0	0	
+sGsG	21	0	0	0	0	0	1	7	0	0	0	0	
+sLdG	0	0	0	0	0	0	0	0	0	8	0	0	
+sLsG	0	0	0	0	0	0	0	0	4	8	0	0	
+sWdG	0	0	0	0	20	0	0	0	0	0	7	3	
+sWsG	0	0	0	0	1	0	0	0	0	0	5	0	
+
+
+

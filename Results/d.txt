@@ -1,0 +1,13 @@
+02_COPY1_UCR_P.labeled
+Gate	Gate	Gate	Wire	Wire	Wire	Label	Label	Label	Wire	Wire	Wire	Gate	Gate	Gate	Wire	Wire	Gate	Gate	Wire	Wire	Gate	Gate	Gate	Gate	Wire	Label	Wire	Wire	Wire	Gate	Gate	Wire	Gate	Label	Gate	Wire	Gate	Gate	Gate	Wire	Wire	Wire	Wire	Wire	Gate	
+Gate	Gate	Gate	Wire	Wire	Gate	Wire	Label	Label	Wire	Wire	Wire	Gate	Gate	Gate	Wire	Wire	Gate	Gate	Wire	Wire	Gate	Gate	Gate	Gate	Wire	Label	Wire	Wire	Wire	Gate	Gate	Wire	Gate	Gate	Gate	Wire	Gate	Gate	Gate	Wire	Wire	Wire	Wire	Wire	Label	
+
+same	same	same	diff	same	same	diff	diff	diff	diff	same	same	diff	same	same	diff	diff	diff	same	diff	same	diff	same	same	same	diff	diff	diff	diff	same	diff	same	diff	diff	diff	diff	diff	diff	same	same	diff	same	same	same	diff	diff	
+same	same	same	diff	diff	diff	diff	diff	diff	diff	same	same	diff	same	same	diff	diff	diff	same	diff	same	diff	same	same	same	diff	diff	diff	diff	same	diff	same	diff	diff	same	same	diff	diff	same	same	diff	same	same	same	diff	diff	
+
+sCsG	sCsG	sCsG	dCdG	sCsG	sCsG	dCdG	sCdG	sCdG	dCdG	sCsG	sCsG	dCdG	sCsG	sCsG	dCdG	sCdG	dCdG	sCsG	dCdG	sCsG	dCdG	sCsG	sCsG	sCsG	dCdG	dCdG	dCdG	sCdG	sCsG	dCdG	sCsG	dCdG	dCdG	dCdG	dCdG	dCdG	dCdG	sCsG	sCsG	dCdG	sCsG	sCsG	sCsG	sCdG	dCdG	
+sCsG	sCsG	sCsG	dCdG	sCdG	dCdG	dCdG	dCdG	sCdG	dCdG	sCsG	sCsG	dCdG	sCsG	sCsG	dCdG	sCdG	dCdG	sCsG	dCdG	sCsG	dCdG	sCsG	sCsG	sCsG	dCdG	dCdG	dCdG	sCdG	sCsG	dCdG	sCsG	dCdG	dCdG	sCsG	sCsG	dCdG	dCdG	sCsG	sCsG	dCdG	sCsG	sCsG	sCsG	sCdG	dCdG	
+
+sGsG	sGsG	sGsG	dGdG	sWsG	sWsG	dWdG	sLdG	sLdG	dLdG	sWsG	sWsG	dWdG	sGsG	sGsG	dGdG	sWdG	dWdG	sGsG	dGdG	sWsG	dWdG	sGsG	sGsG	sGsG	dGdG	dWdG	dLdG	sWdG	sWsG	dWdG	sGsG	dGdG	dWdG	dGdG	dLdG	dGdG	dWdG	sGsG	sGsG	dGdG	sWsG	sWsG	sWsG	sWdG	dWdG	
+sGsG	sGsG	sGsG	dGdG	sWdG	dWdG	dGdG	dWdG	sLdG	dLdG	sWsG	sWsG	dWdG	sGsG	sGsG	dGdG	sWdG	dWdG	sGsG	dGdG	sWsG	dWdG	sGsG	sGsG	sGsG	dGdG	dWdG	dLdG	sWdG	sWsG	dWdG	sGsG	dGdG	dWdG	sGsG	sGsG	dGdG	dWdG	sGsG	sGsG	dGdG	sWsG	sWsG	sWsG	sWdG	dWdG	
+

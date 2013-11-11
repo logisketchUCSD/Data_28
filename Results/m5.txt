@@ -1,0 +1,166 @@
+Labels PI
+5
+1
+1
+Labels A
+	Gate	Label	Wire
+Gate	64	3	14	
+Label	6	21	5	
+Wire	15	5	44	
+
+
+Labels B
+	Gate	Label	Wire
+Gate	79	1	1	
+Label	4	30	1	
+Wire	2	1	62	
+
+
+
+Labels Perfect PI
+5
+1
+1
+Labels A Perfect
+	Gate	Label	Wire
+Gate	61	3	14	
+Label	4	24	6	
+Wire	16	5	44	
+
+
+
+
+Labels Generic PI
+1
+5
+Labels Generic A
+	Different	Same
+Different	8	36	
+Same	35	93	
+
+
+Labels Generic B
+	Different	Same
+Different	41	3	
+Same	3	129	
+
+
+
+Labels Generic Perfect PI
+1
+5
+Labels Generic A Perfect
+	Different	Same
+Different	9	35	
+Same	34	94	
+
+
+
+Groups Generic PI
+1
+5
+Groups Generic A
+	Different	Same
+Different	57	46	
+Same	45	24	
+
+
+Groups Generic B
+	Different	Same
+Different	100	3	
+Same	3	70	
+
+
+
+Groups Generic Perfect PI
+1
+5
+Groups Generic A Perfect
+	Different	Same
+Different	59	44	
+Same	43	26	
+
+
+
+Bits Generic PI
+1
+1
+5
+Bits Generic A
+	dCdG	sCdG	sCsG
+dCdG	8	12	25	
+sCdG	15	25	22	
+sCsG	21	25	24	
+
+
+Bits Generic B
+	dCdG	sCdG	sCsG
+dCdG	41	2	2	
+sCdG	1	59	2	
+sCsG	3	1	70	
+
+
+
+Bits Generic Perfect PI
+1
+1
+5
+Bits Generic A Perfect
+	dCdG	sCdG	sCsG
+dCdG	9	13	23	
+sCdG	14	26	22	
+sCsG	21	23	26	
+
+
+
+Bits Specific PI
+1
+1
+5
+1
+1
+1
+1
+Bits Specific A
+	dCdG	sGdG	sGsG	sLdG	sLsG	sWdG	sWsG
+dCdG	8	1	19	3	4	10	4	
+sGdG	1	1	16	1	1	1	1	
+sGsG	15	16	20	1	1	1	1	
+sLdG	4	1	1	5	3	1	1	
+sLsG	6	1	1	4	4	1	1	
+sWdG	12	1	1	1	1	21	5	
+sWsG	2	1	1	1	1	7	2	
+
+
+Bits Specific B
+	dCdG	sGdG	sGsG	sLdG	sLsG	sWdG	sWsG
+dCdG	41	2	2	1	1	1	1	
+sGdG	1	15	1	1	1	1	1	
+sGsG	1	1	50	1	1	1	1	
+sLdG	1	1	1	10	1	1	1	
+sLsG	3	1	3	1	12	1	1	
+sWdG	1	1	1	1	1	36	2	
+sWsG	1	1	1	1	1	1	8	
+
+
+
+Bits Specific Perfect PI
+1
+1
+5
+1
+1
+1
+1
+Bits Specific A Perfect
+	dCdG	sGdG	sGsG	sLdG	sLsG	sWdG	sWsG
+dCdG	9	1	18	3	4	11	3	
+sGdG	1	1	15	1	1	1	1	
+sGsG	15	15	19	1	1	1	1	
+sLdG	3	1	1	5	4	1	1	
+sLsG	6	1	1	4	7	1	1	
+sWdG	12	1	1	1	1	22	5	
+sWsG	2	1	1	1	1	6	2	
+
+
+

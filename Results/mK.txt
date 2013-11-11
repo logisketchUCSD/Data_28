@@ -1,0 +1,200 @@
+States Perfect PI
+3
+3
+1
+States Perfect A
+	bGdS	bGsS	bLdS	bLsS	bWdS	bWsS	dCdS	lD	lP	lPlD
+bGdS	0	3	0	0	0	0	0	4	1	1	
+bGsS	9	54	0	0	0	0	32	0	0	0	
+bLdS	0	0	0	0	0	0	0	5	0	0	
+bLsS	0	0	3	4	0	0	5	0	0	0	
+bWdS	0	0	0	0	5	1	17	3	0	0	
+bWsS	0	0	0	0	4	0	0	0	0	0	
+dCdS	0	33	0	2	5	0	10	25	0	3	
+lD	0	5	2	7	11	2	10	0	0	0	
+lP	0	1	0	0	0	0	0	0	0	0	
+lPlD	0	1	0	1	0	1	1	0	0	0	
+
+
+States B
+	bGdS	bGsS	bLdS	bLsS	bWdS	bWsS	dCdS	lD	lP	lPlD
+bGdS	7	1	0	0	0	0	1	0	0	0	
+bGsS	0	89	0	0	0	0	8	0	0	0	
+bLdS	0	0	5	0	0	0	0	0	0	0	
+bLsS	0	0	0	14	0	0	0	0	0	0	
+bWdS	0	0	0	0	25	1	0	0	0	0	
+bWsS	0	0	0	0	0	4	0	0	0	0	
+dCdS	0	0	0	2	1	0	75	0	0	0	
+lD	0	0	0	0	0	0	0	0	0	0	
+lP	0	0	0	0	0	0	0	0	0	0	
+lPlD	0	0	0	0	0	0	0	0	0	0	
+
+
+
+
+Labels PI
+3
+3
+1
+Labels A
+	Gate	Label	Wire
+Gate	96	12	29	
+Label	12	20	3	
+Wire	31	3	32	
+
+
+Labels B
+	Gate	Label	Wire
+Gate	137	5	3	
+Label	1	31	1	
+Wire	1	1	62	
+
+
+
+Labels Perfect PI
+3
+3
+1
+Labels A Perfect
+	Gate	Label	Wire
+Gate	105	10	28	
+Label	10	18	3	
+Wire	30	3	31	
+
+
+
+
+Labels Generic PI
+1
+5
+Labels Generic A
+	Different	Same
+Different	23	63	
+Same	60	87	
+
+
+Labels Generic B
+	Different	Same
+Different	76	4	
+Same	10	147	
+
+
+
+Labels Generic Perfect PI
+1
+5
+Labels Generic A Perfect
+	Different	Same
+Different	20	60	
+Same	57	96	
+
+
+
+Groups Generic PI
+1
+5
+Groups Generic A
+	Different	Same
+Different	64	60	
+Same	56	53	
+
+
+Groups Generic B
+	Different	Same
+Different	115	5	
+Same	9	108	
+
+
+
+Groups Generic Perfect PI
+1
+5
+Groups Generic A Perfect
+	Different	Same
+Different	62	58	
+Same	54	59	
+
+
+
+Bits Generic PI
+1
+1
+5
+Bits Generic A
+	dCdG	sCdG	sCsG
+dCdG	23	16	48	
+sCdG	19	9	13	
+sCsG	42	15	53	
+
+
+Bits Generic B
+	dCdG	sCdG	sCsG
+dCdG	76	2	3	
+sCdG	2	38	3	
+sCsG	9	1	108	
+
+
+
+Bits Generic Perfect PI
+1
+1
+5
+Bits Generic A Perfect
+	dCdG	sCdG	sCsG
+dCdG	20	17	44	
+sCdG	20	8	15	
+sCsG	38	17	59	
+
+
+
+Bits Specific PI
+1
+1
+3
+1
+3
+1
+1
+Bits Specific A
+	dCdG	sGdG	sGsG	sLdG	sLsG	sWdG	sWsG
+dCdG	23	1	37	2	9	15	4	
+sGdG	2	1	7	1	1	1	1	
+sGsG	34	8	49	1	1	1	1	
+sLdG	1	1	1	2	5	1	1	
+sLsG	8	1	1	4	5	1	1	
+sWdG	18	1	1	1	1	8	3	
+sWsG	2	1	1	1	1	5	1	
+
+
+Bits Specific B
+	dCdG	sGdG	sGsG	sLdG	sLsG	sWdG	sWsG
+dCdG	76	1	1	1	3	2	1	
+sGdG	2	8	2	1	1	1	1	
+sGsG	9	1	90	1	1	1	1	
+sLdG	1	1	1	6	1	1	1	
+sLsG	1	1	1	1	15	1	1	
+sWdG	1	1	1	1	1	26	2	
+sWsG	1	1	1	1	1	1	5	
+
+
+
+Bits Specific Perfect PI
+1
+1
+3
+1
+3
+1
+1
+Bits Specific A Perfect
+	dCdG	sGdG	sGsG	sLdG	sLsG	sWdG	sWsG
+dCdG	20	1	36	2	7	16	3	
+sGdG	2	1	9	1	1	1	1	
+sGsG	33	10	55	1	1	1	1	
+sLdG	1	1	1	2	5	1	1	
+sLsG	6	1	1	4	5	1	1	
+sWdG	19	1	1	1	1	7	3	
+sWsG	1	1	1	1	1	5	1	
+
+
+

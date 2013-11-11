@@ -1,0 +1,1536 @@
+01_COPY1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	39	2	1	
+Label	0	6	0	
+Wire	0	0	14	
+
+
+
+01_COPY1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	21	0	0	
+Label	0	7	0	
+Wire	0	0	13	
+
+
+
+01_COPY2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	49	1	2	
+Label	0	8	0	
+Wire	0	0	16	
+
+
+
+01_COPY2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	27	0	0	
+Label	0	9	0	
+Wire	0	0	18	
+
+
+
+01_EQ1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	14	0	0	
+Label	0	6	0	
+Wire	0	0	17	
+
+
+
+01_EQ1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	14	0	0	
+Label	0	7	0	
+Wire	0	0	15	
+
+
+
+01_EQ2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	12	0	0	
+Label	0	7	0	
+Wire	1	0	15	
+
+
+
+01_EQ2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	16	0	0	
+Label	1	7	0	
+Wire	0	0	14	
+
+
+
+02_COPY1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	20	1	0	
+Label	1	3	0	
+Wire	0	1	20	
+
+
+
+02_COPY1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	16	0	1	
+Label	0	5	0	
+Wire	0	0	14	
+
+
+
+02_COPY2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	22	0	1	
+Label	0	6	0	
+Wire	0	0	21	
+
+
+
+02_COPY2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	19	0	2	
+Label	0	6	0	
+Wire	0	0	17	
+
+
+
+02_EQ1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	15	0	1	
+Label	0	6	0	
+Wire	1	0	24	
+
+
+
+02_EQ1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	13	0	0	
+Label	0	5	0	
+Wire	0	0	19	
+
+
+
+02_EQ2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	12	0	0	
+Label	0	6	0	
+Wire	1	0	17	
+
+
+
+02_EQ2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	15	0	0	
+Label	1	4	0	
+Wire	0	0	21	
+
+
+
+03_COPY1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	19	0	0	
+Label	2	7	0	
+Wire	0	0	16	
+
+
+
+03_COPY1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	18	0	0	
+Label	0	6	0	
+Wire	1	0	12	
+
+
+
+03_COPY2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	23	0	0	
+Label	0	9	0	
+Wire	0	0	17	
+
+
+
+03_COPY2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	18	0	0	
+Label	0	8	0	
+Wire	0	0	16	
+
+
+
+03_EQ1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	15	1	2	
+Label	0	8	0	
+Wire	0	0	24	
+
+
+
+03_EQ1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	13	0	0	
+Label	0	7	0	
+Wire	1	0	16	
+
+
+
+03_EQ2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	13	0	1	
+Label	0	9	0	
+Wire	0	0	18	
+
+
+
+03_EQ2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	15	0	0	
+Label	0	7	0	
+Wire	1	0	17	
+
+
+
+04_COPY1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	22	0	0	
+Label	0	6	0	
+Wire	1	0	16	
+
+
+
+04_COPY1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	19	0	0	
+Label	1	5	0	
+Wire	0	0	17	
+
+
+
+04_COPY2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	25	0	0	
+Label	0	8	0	
+Wire	0	0	21	
+
+
+
+04_COPY2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	22	0	0	
+Label	0	8	0	
+Wire	2	0	24	
+
+
+
+04_EQ1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	14	0	2	
+Label	0	4	0	
+Wire	3	0	25	
+
+
+
+04_EQ1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	16	0	0	
+Label	1	5	0	
+Wire	2	0	20	
+
+
+
+04_EQ2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	15	0	2	
+Label	1	3	0	
+Wire	0	0	23	
+
+
+
+04_EQ2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	18	0	0	
+Label	1	4	1	
+Wire	1	0	24	
+
+
+
+05_COPY1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	15	0	0	
+Label	0	6	0	
+Wire	0	0	11	
+
+
+
+05_COPY1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	16	0	0	
+Label	0	5	0	
+Wire	1	0	18	
+
+
+
+05_COPY2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	16	0	0	
+Label	0	7	0	
+Wire	1	0	12	
+
+
+
+05_COPY2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	17	1	0	
+Label	0	6	0	
+Wire	0	0	20	
+
+
+
+05_EQ1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	9	0	6	
+Label	5	8	0	
+Wire	0	0	17	
+
+
+
+05_EQ1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	11	0	0	
+Label	0	5	0	
+Wire	0	0	14	
+
+
+
+05_EQ2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	9	0	6	
+Label	3	7	0	
+Wire	0	0	14	
+
+
+
+05_EQ2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	8	0	0	
+Label	0	5	0	
+Wire	1	0	27	
+
+
+
+06_COPY1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	27	2	2	
+Label	0	8	0	
+Wire	0	1	13	
+
+
+
+06_COPY1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	21	2	2	
+Label	0	8	0	
+Wire	0	0	14	
+
+
+
+06_COPY2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	30	0	0	
+Label	1	9	0	
+Wire	0	0	17	
+
+
+
+06_COPY2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	22	0	0	
+Label	0	10	0	
+Wire	0	0	19	
+
+
+
+06_EQ1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	32	0	0	
+Label	0	8	0	
+Wire	1	0	24	
+
+
+
+06_EQ1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	17	0	0	
+Label	0	8	0	
+Wire	1	0	19	
+
+
+
+06_EQ2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	14	6	0	
+Label	2	6	0	
+Wire	1	0	20	
+
+
+
+06_EQ2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	18	0	0	
+Label	0	7	1	
+Wire	1	0	20	
+
+
+
+07_COPY1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	29	0	0	
+Label	0	7	0	
+Wire	0	0	14	
+
+
+
+07_COPY1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	21	0	1	
+Label	1	9	0	
+Wire	0	0	14	
+
+
+
+07_COPY2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	28	0	0	
+Label	1	8	0	
+Wire	0	0	20	
+
+
+
+07_COPY2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	27	0	0	
+Label	2	7	0	
+Wire	0	0	20	
+
+
+
+07_EQ1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	12	0	0	
+Label	1	9	0	
+Wire	0	0	18	
+
+
+
+07_EQ1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	19	0	1	
+Label	0	7	0	
+Wire	2	0	17	
+
+
+
+07_EQ2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	20	0	0	
+Label	0	14	0	
+Wire	2	0	17	
+
+
+
+07_EQ2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	17	0	0	
+Label	2	5	0	
+Wire	1	0	18	
+
+
+
+08_COPY1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	37	7	2	
+Label	0	8	0	
+Wire	2	0	17	
+
+
+
+08_COPY1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	31	2	2	
+Label	0	7	0	
+Wire	0	0	18	
+
+
+
+08_COPY2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	50	4	2	
+Label	1	7	1	
+Wire	1	0	20	
+
+
+
+08_COPY2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	46	4	8	
+Label	2	9	0	
+Wire	0	0	22	
+
+
+
+08_EQ1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	36	1	1	
+Label	1	5	0	
+Wire	3	0	30	
+
+
+
+08_EQ1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	21	3	1	
+Label	0	6	1	
+Wire	1	0	16	
+
+
+
+08_EQ2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	39	1	0	
+Label	3	5	0	
+Wire	0	0	23	
+
+
+
+08_EQ2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	35	3	1	
+Label	2	5	0	
+Wire	0	1	23	
+
+
+
+09_COPY1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	28	4	0	
+Label	0	8	0	
+Wire	0	0	16	
+
+
+
+09_COPY1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	17	0	3	
+Label	0	7	0	
+Wire	0	0	13	
+
+
+
+09_COPY2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	30	4	0	
+Label	0	9	0	
+Wire	1	1	19	
+
+
+
+09_COPY2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	22	0	1	
+Label	0	9	0	
+Wire	1	0	28	
+
+
+
+09_EQ1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	22	1	0	
+Label	0	7	0	
+Wire	0	0	31	
+
+
+
+09_EQ1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	11	0	0	
+Label	0	8	0	
+Wire	1	0	25	
+
+
+
+09_EQ2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	23	0	2	
+Label	0	5	0	
+Wire	1	0	23	
+
+
+
+09_EQ2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	16	0	0	
+Label	0	7	0	
+Wire	0	0	29	
+
+
+
+10_COPY1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	23	0	1	
+Label	0	6	0	
+Wire	1	0	17	
+
+
+
+10_COPY1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	19	0	0	
+Label	0	6	0	
+Wire	1	0	15	
+
+
+
+10_COPY2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	24	1	1	
+Label	1	7	0	
+Wire	0	0	23	
+
+
+
+10_COPY2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	26	0	0	
+Label	0	7	0	
+Wire	0	0	21	
+
+
+
+10_EQ1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	17	0	0	
+Label	0	6	0	
+Wire	1	0	21	
+
+
+
+10_EQ1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	16	0	0	
+Label	0	7	0	
+Wire	0	0	15	
+
+
+
+10_EQ2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	20	0	0	
+Label	0	6	0	
+Wire	1	0	22	
+
+
+
+10_EQ2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	20	0	1	
+Label	0	6	0	
+Wire	0	0	22	
+
+
+
+11_COPY1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	37	8	1	
+Label	1	4	0	
+Wire	0	0	24	
+
+
+
+11_COPY1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	33	3	0	
+Label	0	7	0	
+Wire	0	0	23	
+
+
+
+11_COPY2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	42	5	4	
+Label	1	6	0	
+Wire	3	0	41	
+
+
+
+11_COPY2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	32	2	2	
+Label	0	7	0	
+Wire	1	0	34	
+
+
+
+11_EQ1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	18	0	3	
+Label	2	1	2	
+Wire	3	0	30	
+
+
+
+11_EQ1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	22	3	0	
+Label	0	5	0	
+Wire	0	0	13	
+
+
+
+11_EQ2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	10	0	2	
+Label	1	4	0	
+Wire	0	1	15	
+
+
+
+11_EQ2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	21	3	0	
+Label	0	6	0	
+Wire	1	0	25	
+
+
+
+12_COPY1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	30	2	2	
+Label	0	6	0	
+Wire	0	0	15	
+
+
+
+12_COPY1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	19	0	0	
+Label	0	8	0	
+Wire	2	0	12	
+
+
+
+12_COPY2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	35	0	5	
+Label	0	7	1	
+Wire	0	0	17	
+
+
+
+12_COPY2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	18	0	0	
+Label	1	8	0	
+Wire	0	0	15	
+
+
+
+12_EQ1_UCR_P.labeled
+	Gate	Label	Wire
+Gate	27	1	1	
+Label	0	7	0	
+Wire	0	0	18	
+
+
+
+12_EQ1_UCR_T.labeled
+	Gate	Label	Wire
+Gate	15	0	1	
+Label	0	9	0	
+Wire	0	0	19	
+
+
+
+12_EQ2_UCR_P.labeled
+	Gate	Label	Wire
+Gate	30	1	0	
+Label	0	6	0	
+Wire	0	0	20	
+
+
+
+12_EQ2_UCR_T.labeled
+	Gate	Label	Wire
+Gate	14	0	0	
+Label	3	5	0	
+Wire	0	0	16	
+
+
+
+13_COPY1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	22	0	0	
+Label	1	7	0	
+Wire	1	0	17	
+
+
+
+13_COPY1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	22	0	0	
+Label	0	8	0	
+Wire	0	0	15	
+
+
+
+13_COPY2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	25	0	0	
+Label	3	7	0	
+Wire	1	0	21	
+
+
+
+13_COPY2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	25	0	0	
+Label	0	10	0	
+Wire	0	0	19	
+
+
+
+13_EQ1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	17	0	1	
+Label	0	0	0	
+Wire	2	6	20	
+
+
+
+13_EQ1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	23	0	0	
+Label	1	7	0	
+Wire	2	0	19	
+
+
+
+13_EQ2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	21	0	0	
+Label	0	8	0	
+Wire	2	0	30	
+
+
+
+13_EQ2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	18	0	2	
+Label	1	7	0	
+Wire	1	0	28	
+
+
+
+14_COPY1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	19	0	2	
+Label	0	5	0	
+Wire	0	0	19	
+
+
+
+14_COPY1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	21	0	1	
+Label	0	6	0	
+Wire	0	0	16	
+
+
+
+14_COPY2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	25	0	0	
+Label	0	7	0	
+Wire	0	0	25	
+
+
+
+14_COPY2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	23	0	0	
+Label	0	7	0	
+Wire	2	0	22	
+
+
+
+14_EQ1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	9	0	3	
+Label	0	4	1	
+Wire	1	0	22	
+
+
+
+14_EQ1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	8	0	4	
+Label	0	5	0	
+Wire	6	0	14	
+
+
+
+14_EQ2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	15	0	5	
+Label	1	5	0	
+Wire	0	2	28	
+
+
+
+14_EQ2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	15	0	3	
+Label	0	5	1	
+Wire	3	0	26	
+
+
+
+15_COPY1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	22	0	0	
+Label	0	8	0	
+Wire	1	0	13	
+
+
+
+15_COPY1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	21	0	0	
+Label	0	7	0	
+Wire	0	0	17	
+
+
+
+15_COPY2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	26	0	0	
+Label	0	10	0	
+Wire	0	0	21	
+
+
+
+15_COPY2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	24	0	0	
+Label	0	9	0	
+Wire	0	0	22	
+
+
+
+15_EQ1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	21	0	5	
+Label	2	5	0	
+Wire	0	2	31	
+
+
+
+15_EQ1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	21	0	1	
+Label	1	6	0	
+Wire	7	1	26	
+
+
+
+15_EQ2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	16	0	4	
+Label	2	5	0	
+Wire	0	1	32	
+
+
+
+15_EQ2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	19	0	0	
+Label	1	6	0	
+Wire	2	1	33	
+
+
+
+16_COPY1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	18	0	3	
+Label	0	6	0	
+Wire	1	0	30	
+
+
+
+16_COPY1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	20	0	0	
+Label	1	5	0	
+Wire	1	0	21	
+
+
+
+16_COPY2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	20	0	2	
+Label	1	7	1	
+Wire	1	0	34	
+
+
+
+16_COPY2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	37	3	1	
+Label	2	6	1	
+Wire	0	0	31	
+
+
+
+16_EQ1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	22	0	7	
+Label	3	4	0	
+Wire	4	1	39	
+
+
+
+16_EQ1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	19	0	2	
+Label	0	7	0	
+Wire	2	0	19	
+
+
+
+16_EQ2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	19	0	0	
+Label	1	6	0	
+Wire	0	0	34	
+
+
+
+16_EQ2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	15	0	5	
+Label	0	7	0	
+Wire	0	0	22	
+
+
+
+17_COPY1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	16	0	1	
+Label	0	6	0	
+Wire	0	0	13	
+
+
+
+17_COPY1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	14	1	1	
+Label	1	6	0	
+Wire	0	0	14	
+
+
+
+17_COPY2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	18	0	0	
+Label	2	6	0	
+Wire	0	0	18	
+
+
+
+17_COPY2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	19	1	2	
+Label	1	6	0	
+Wire	1	0	21	
+
+
+
+17_EQ1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	13	0	2	
+Label	0	5	0	
+Wire	0	0	17	
+
+
+
+17_EQ1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	8	0	0	
+Label	0	4	0	
+Wire	3	0	17	
+
+
+
+17_EQ2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	12	0	0	
+Label	0	6	0	
+Wire	0	0	13	
+
+
+
+17_EQ2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	12	0	1	
+Label	1	5	0	
+Wire	0	0	20	
+
+
+
+18_COPY1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	29	3	1	
+Label	0	7	0	
+Wire	3	0	24	
+
+
+
+18_COPY1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	19	0	1	
+Label	0	7	0	
+Wire	0	0	17	
+
+
+
+18_COPY2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	34	6	1	
+Label	0	8	0	
+Wire	3	0	23	
+
+
+
+18_COPY2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	28	0	1	
+Label	0	13	0	
+Wire	0	0	30	
+
+
+
+18_EQ1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	23	4	0	
+Label	0	7	0	
+Wire	3	0	22	
+
+
+
+18_EQ1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	14	0	0	
+Label	2	5	0	
+Wire	0	0	17	
+
+
+
+18_EQ2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	21	5	2	
+Label	0	7	0	
+Wire	0	0	25	
+
+
+
+18_EQ2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	18	0	0	
+Label	0	7	0	
+Wire	0	1	23	
+
+
+
+19_COPY1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	18	0	0	
+Label	0	7	0	
+Wire	0	0	16	
+
+
+
+19_COPY1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	20	0	1	
+Label	0	7	0	
+Wire	0	0	14	
+
+
+
+19_COPY2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	23	0	1	
+Label	0	9	0	
+Wire	0	0	19	
+
+
+
+19_COPY2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	24	0	1	
+Label	0	9	0	
+Wire	0	0	20	
+
+
+
+19_EQ1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	14	0	0	
+Label	1	7	0	
+Wire	0	0	12	
+
+
+
+19_EQ1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	15	0	0	
+Label	1	5	0	
+Wire	0	0	18	
+
+
+
+19_EQ2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	18	0	1	
+Label	1	7	0	
+Wire	0	0	17	
+
+
+
+19_EQ2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	16	0	0	
+Label	0	5	0	
+Wire	1	0	14	
+
+
+
+20_COPY1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	19	0	0	
+Label	0	6	0	
+Wire	0	0	19	
+
+
+
+20_COPY1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	19	0	0	
+Label	2	5	0	
+Wire	2	0	17	
+
+
+
+20_COPY2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	22	0	0	
+Label	0	9	0	
+Wire	0	0	20	
+
+
+
+20_COPY2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	22	0	0	
+Label	1	7	0	
+Wire	0	0	18	
+
+
+
+20_EQ1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	15	2	1	
+Label	1	5	0	
+Wire	0	1	27	
+
+
+
+20_EQ1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	16	0	1	
+Label	2	4	0	
+Wire	0	0	24	
+
+
+
+20_EQ2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	18	0	0	
+Label	3	3	0	
+Wire	1	0	27	
+
+
+
+20_EQ2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	17	0	0	
+Label	2	4	0	
+Wire	1	0	27	
+
+
+
+21_COPY1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	21	2	2	
+Label	0	5	2	
+Wire	8	0	18	
+
+
+
+21_COPY1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	21	1	0	
+Label	0	4	0	
+Wire	3	0	17	
+
+
+
+21_COPY2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	29	1	2	
+Label	0	7	0	
+Wire	3	0	27	
+
+
+
+21_COPY2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	26	0	1	
+Label	0	6	0	
+Wire	3	0	23	
+
+
+
+21_EQ1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	23	0	2	
+Label	0	6	0	
+Wire	4	0	25	
+
+
+
+21_EQ1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	18	1	1	
+Label	0	4	0	
+Wire	1	0	27	
+
+
+
+21_EQ2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	19	1	2	
+Label	0	6	0	
+Wire	5	1	29	
+
+
+
+21_EQ2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	14	6	1	
+Label	0	4	0	
+Wire	2	0	24	
+
+
+
+22_COPY1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	23	0	1	
+Label	0	7	0	
+Wire	1	0	16	
+
+
+
+22_COPY1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	21	0	3	
+Label	0	7	0	
+Wire	2	0	16	
+
+
+
+22_COPY2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	25	0	3	
+Label	1	8	0	
+Wire	0	0	21	
+
+
+
+22_COPY2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	26	0	3	
+Label	1	8	0	
+Wire	1	0	26	
+
+
+
+22_EQ1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	22	0	0	
+Label	1	6	0	
+Wire	0	0	29	
+
+
+
+22_EQ1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	13	0	0	
+Label	0	7	0	
+Wire	0	0	23	
+
+
+
+22_EQ2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	16	0	0	
+Label	0	7	0	
+Wire	0	0	21	
+
+
+
+22_EQ2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	19	0	1	
+Label	0	7	0	
+Wire	1	0	29	
+
+
+
+23_COPY1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	17	0	0	
+Label	0	7	0	
+Wire	0	1	13	
+
+
+
+23_COPY1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	22	0	1	
+Label	0	7	0	
+Wire	1	0	20	
+
+
+
+23_COPY2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	19	0	0	
+Label	0	10	0	
+Wire	0	0	18	
+
+
+
+23_COPY2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	25	0	1	
+Label	3	18	0	
+Wire	1	0	22	
+
+
+
+23_EQ1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	13	0	3	
+Label	1	7	0	
+Wire	0	0	22	
+
+
+
+23_EQ1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	11	0	0	
+Label	0	6	0	
+Wire	2	0	17	
+
+
+
+23_EQ2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	12	0	6	
+Label	4	5	0	
+Wire	1	0	20	
+
+
+
+23_EQ2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	18	0	6	
+Label	0	6	1	
+Wire	1	0	39	
+
+
+
+24_COPY1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	18	0	1	
+Label	0	4	0	
+Wire	1	0	23	
+
+
+
+24_COPY1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	20	0	0	
+Label	0	6	0	
+Wire	2	0	17	
+
+
+
+24_COPY2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	23	0	0	
+Label	2	4	0	
+Wire	1	0	24	
+
+
+
+24_COPY2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	23	0	0	
+Label	1	7	0	
+Wire	0	0	19	
+
+
+
+24_EQ1_HMC_P.labeled
+	Gate	Label	Wire
+Gate	18	0	1	
+Label	1	9	0	
+Wire	0	0	23	
+
+
+
+24_EQ1_HMC_T.labeled
+	Gate	Label	Wire
+Gate	15	0	3	
+Label	4	12	0	
+Wire	1	0	18	
+
+
+
+24_EQ2_HMC_P.labeled
+	Gate	Label	Wire
+Gate	17	0	2	
+Label	4	5	0	
+Wire	0	0	30	
+
+
+
+24_EQ2_HMC_T.labeled
+	Gate	Label	Wire
+Gate	17	0	2	
+Label	0	14	0	
+Wire	3	0	19	
+
+
+

@@ -1,0 +1,75 @@
+function avgAndMinDistUser1= gatedata(file)
+
+% import the data into a vector (actually 2 vectors
+% gatedata.textdata and gatedata.data)
+% gatedata = importdata('GateStats.csv');
+
+data = importdata(char(file));
+
+rWireMinDist = [];
+rAndMinDist = [];
+rOrMinDist = [];
+rXorMinDist = [];
+rNandMinDist = [];
+rNorMinDist = [];
+rNotMinDist = [];
+eWireMinDist = [];
+eAndMinDist = [];
+eOrMinDist = [];
+eXorMinDist = [];
+eNandMinDist = [];
+eNorMinDist = [];
+eNotMinDist = [];
+cWireMinDist = [];
+cAndMinDist = [];
+cOrMinDist = [];
+cXorMinDist = [];
+cNandMinDist = [];
+cNorMinDist = [];
+cNotMinDist = [];
+
+
+for i=1:length(data.textdata)
+    if strcmp(data.textdata(i,3),'AND')
+        if strcmp(data.textdata(i,6),'AND')
+            if i == 1 || ~strcmp(data.textdata(i,4),data.textdata(i-1,4))
+
+                if strcmp(data.textdata(i,2),'1')
+                    rAndMinDistUser1 = [rAndMinDistUser1 data.data(i,8)];
+                elseif strcmp(data.textdata(i,2),'2')
+                    rAndMinDistUser2 = [rAndMinDistUser2 data.data(i,8)];
+                elseif strcmp(data.textdata(i,2),'3')
+                    rAndMinDistUser3 = [rAndMinDistUser3 data.data(i,8)];
+                elseif strcmp(data.textdata(i,2),'4')
+                    rAndMinDistUser4 = [rAndMinDistUser4 data.data(i,8)];
+                elseif strcmp(data.textdata(i,2),'5')
+                    rAndMinDistUser5 = [rAndMinDistUser5 data.data(i,8)];
+                elseif strcmp(data.textdata(i,2),'6')
+                    rAndMinDistUser6 = [rAndMinDistUser6 data.data(i,8)];
+                elseif strcmp(data.textdata(i,2),'7')
+                    rAndMinDistUser7 = [rAndMinDistUser7 data.data(i,8)];
+                elseif strcmp(data.textdata(i,2),'8')
+                    rAndMinDistUser8 = [rAndMinDistUser8 data.data(i,8)];
+                elseif strcmp(data.textdata(i,2),'9')
+                    rAndMinDistUser9 = [rAndMinDistUser9 data.data(i,8)];
+                elseif strcmp(data.textdata(i,2),'10')
+                    rAndMinDistUser10 = [rAndMinDistUser10 data.data(i,8)];
+                elseif strcmp(data.textdata(i,2),'11')
+                    rAndMinDistUser11 = [rAndMinDistUser11 data.data(i,8)];
+                elseif strcmp(data.textdata(i,2),'12')
+                    rAndMinDistUser12 = [rAndMinDistUser12 data.data(i,8)];
+                    
+                end
+            end
+        end
+    end
+
+end
+
+            if i == 1 || ~strcmp(data.textdata(i,4),data.textdata(i-1,4))
+                eAndMinDist = [eAndMinDist data.data(i,8)];
+
+            end
+
+            avgAndMinDistUser1 = [sum(rAndMinDistUser1)/length(rAndMinDistUser1) sum(eAndMinDist)/length(eAndMinDist)];
+

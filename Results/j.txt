@@ -1,0 +1,26 @@
+01_COPY2_UCR_P.labeled
+Gate	Gate	Gate	Label	Label	Gate	Gate	Label	Gate	Gate	Gate	Gate	Label	Label	Gate	Gate	Gate	Gate	Gate	Gate	Label	Label	Gate	Gate	Gate	Gate	Gate	Label	Label	Gate	Gate	Wire	Gate	Gate	Gate	Gate	Wire	Wire	Gate	Gate	Wire	Gate	Wire	Gate	Gate	Wire	Wire	Gate	Gate	Gate	Gate	Gate	Gate	Wire	Wire	Wire	Gate	Gate	Wire	Wire	Gate	Gate	Wire	Wire	Gate	Gate	Gate	Wire	Wire	Wire	Gate	Gate	Gate	Gate	Gate	Label	
+Gate	Gate	Gate	Label	Label	Gate	Gate	Gate	Gate	Gate	Gate	Gate	Label	Label	Gate	Gate	Gate	Gate	Gate	Gate	Gate	Label	Gate	Gate	Gate	Gate	Gate	Label	Label	Gate	Gate	Wire	Gate	Gate	Gate	Gate	Wire	Wire	Gate	Gate	Wire	Gate	Gate	Gate	Gate	Wire	Wire	Gate	Gate	Gate	Gate	Gate	Gate	Wire	Wire	Wire	Gate	Gate	Wire	Wire	Gate	Gate	Wire	Wire	Gate	Gate	Gate	Wire	Wire	Wire	Gate	Gate	Gate	Gate	Gate	Label	
+
+same	same	same	diff	same	diff	same	diff	diff	same	same	same	diff	same	diff	same	same	same	same	same	diff	same	diff	same	same	same	same	diff	same	diff	same	diff	diff	same	same	same	diff	diff	diff	same	diff	diff	diff	diff	same	diff	diff	diff	same	diff	same	same	same	diff	diff	diff	diff	same	diff	diff	diff	same	diff	diff	diff	same	same	diff	diff	diff	diff	same	same	same	same	diff	
+same	same	same	diff	same	diff	same	diff	same	same	same	same	diff	same	diff	same	same	same	same	same	same	diff	diff	same	same	same	same	diff	same	diff	same	diff	diff	same	same	same	diff	diff	diff	same	diff	diff	same	same	same	diff	diff	diff	same	diff	same	same	same	diff	diff	diff	diff	same	diff	diff	diff	same	diff	diff	diff	same	same	diff	diff	diff	diff	same	same	same	same	diff	
+
+sCsG	sCsG	sCsG	dCdG	sCsG	dCdG	sCsG	dCdG	dCdG	sCsG	sCsG	sCsG	dCdG	sCsG	dCdG	sCsG	sCsG	sCsG	sCsG	sCsG	dCdG	sCsG	dCdG	sCsG	sCsG	sCsG	sCsG	dCdG	sCsG	dCdG	sCsG	dCdG	dCdG	sCsG	sCsG	sCsG	dCdG	sCdG	dCdG	sCsG	dCdG	dCdG	dCdG	dCdG	sCsG	dCdG	sCdG	dCdG	sCsG	sCdG	sCsG	sCsG	sCsG	dCdG	sCdG	sCdG	dCdG	sCsG	dCdG	sCdG	dCdG	sCsG	dCdG	sCdG	dCdG	sCsG	sCsG	dCdG	sCdG	sCdG	dCdG	sCsG	sCsG	sCsG	sCsG	dCdG	
+sCsG	sCsG	sCsG	dCdG	sCsG	dCdG	sCsG	sCdG	sCsG	sCsG	sCsG	sCsG	dCdG	sCsG	dCdG	sCsG	sCsG	sCsG	sCsG	sCsG	sCsG	dCdG	dCdG	sCsG	sCsG	sCsG	sCsG	dCdG	sCsG	dCdG	sCsG	dCdG	dCdG	sCsG	sCsG	sCsG	dCdG	sCdG	dCdG	sCsG	dCdG	dCdG	sCsG	sCsG	sCsG	dCdG	sCdG	dCdG	sCsG	sCdG	sCsG	sCsG	sCsG	dCdG	sCdG	sCdG	dCdG	sCsG	dCdG	sCdG	dCdG	sCsG	dCdG	sCdG	dCdG	sCsG	sCsG	dCdG	sCdG	sCdG	dCdG	sCsG	sCsG	sCsG	sCsG	dCdG	
+
+sGsG	sGsG	sGsG	dCdG	sLsG	dCdG	sGsG	dCdG	dCdG	sGsG	sGsG	sGsG	dCdG	sLsG	dCdG	sGsG	sGsG	sGsG	sGsG	sGsG	dCdG	sLsG	dCdG	sGsG	sGsG	sGsG	sGsG	dCdG	sLsG	dCdG	sGsG	dCdG	dCdG	sGsG	sGsG	sGsG	dCdG	sWdG	dCdG	sGsG	dCdG	dCdG	dCdG	dCdG	sGsG	dCdG	sWdG	dCdG	sGsG	sGdG	sGsG	sGsG	sGsG	dCdG	sWdG	sWdG	dCdG	sGsG	dCdG	sWdG	dCdG	sGsG	dCdG	sWdG	dCdG	sGsG	sGsG	dCdG	sWdG	sWdG	dCdG	sGsG	sGsG	sGsG	sGsG	dCdG	
+sGsG	sGsG	sGsG	dCdG	sLsG	dCdG	sGsG	sGdG	sGsG	sGsG	sGsG	sGsG	dCdG	sLsG	dCdG	sGsG	sGsG	sGsG	sGsG	sGsG	sGsG	dCdG	dCdG	sGsG	sGsG	sGsG	sGsG	dCdG	sLsG	dCdG	sGsG	dCdG	dCdG	sGsG	sGsG	sGsG	dCdG	sWdG	dCdG	sGsG	dCdG	dCdG	sGsG	sGsG	sGsG	dCdG	sWdG	dCdG	sGsG	sGdG	sGsG	sGsG	sGsG	dCdG	sWdG	sWdG	dCdG	sGsG	dCdG	sWdG	dCdG	sGsG	dCdG	sWdG	dCdG	sGsG	sGsG	dCdG	sWdG	sWdG	dCdG	sGsG	sGsG	sGsG	sGsG	dCdG	
+
+01_COPY2_UCR_T.labeled
+Label	Label	Label	Label	Label	Label	Label	Label	Gate	Gate	Gate	Gate	Gate	Gate	Gate	Wire	Wire	Wire	Gate	Gate	Gate	Wire	Gate	Gate	Gate	Gate	Gate	Gate	Wire	Wire	Wire	Wire	Wire	Gate	Gate	Wire	Gate	Gate	Gate	Gate	Gate	Gate	Wire	Wire	Wire	Wire	Wire	Wire	Gate	Gate	Wire	Wire	Wire	Label	
+Label	Label	Label	Label	Label	Label	Label	Label	Gate	Gate	Gate	Gate	Gate	Gate	Gate	Wire	Wire	Wire	Gate	Gate	Gate	Wire	Gate	Gate	Gate	Gate	Gate	Gate	Wire	Wire	Wire	Wire	Wire	Gate	Gate	Wire	Gate	Gate	Gate	Gate	Gate	Gate	Wire	Wire	Wire	Wire	Wire	Gate	Gate	Gate	Wire	Wire	Wire	Label	
+
+same	same	same	diff	same	diff	diff	same	diff	same	same	same	diff	same	same	diff	diff	diff	diff	same	same	diff	diff	same	diff	same	same	same	diff	diff	same	diff	same	diff	same	diff	diff	same	same	same	diff	same	diff	diff	same	diff	diff	diff	diff	same	diff	diff	diff	diff	
+same	same	same	diff	same	diff	diff	same	diff	same	same	same	diff	same	same	diff	diff	diff	diff	same	same	diff	diff	same	diff	same	same	same	diff	diff	same	diff	same	diff	same	diff	diff	same	same	same	diff	same	diff	diff	same	diff	diff	diff	same	same	diff	diff	diff	diff	
+
+sCsG	sCsG	sCsG	sCdG	sCsG	sCdG	sCdG	sCsG	dCdG	sCsG	sCsG	sCsG	sCdG	sCsG	sCsG	dCdG	sCdG	sCdG	dCdG	sCsG	sCsG	dCdG	dCdG	sCsG	sCdG	sCsG	sCsG	sCsG	dCdG	sCdG	sCsG	sCdG	sCsG	dCdG	sCsG	dCdG	dCdG	sCsG	sCsG	sCsG	sCdG	sCsG	dCdG	sCdG	sCsG	sCdG	sCdG	sCdG	dCdG	sCsG	dCdG	sCdG	sCdG	dCdG	
+sCsG	sCsG	sCsG	sCdG	sCsG	sCdG	sCdG	sCsG	dCdG	sCsG	sCsG	sCsG	sCdG	sCsG	sCsG	dCdG	sCdG	sCdG	dCdG	sCsG	sCsG	dCdG	dCdG	sCsG	sCdG	sCsG	sCsG	sCsG	dCdG	sCdG	sCsG	sCdG	sCsG	dCdG	sCsG	dCdG	dCdG	sCsG	sCsG	sCsG	sCdG	sCsG	dCdG	sCdG	sCsG	sCdG	sCdG	dCdG	sCsG	sCsG	dCdG	sCdG	sCdG	dCdG	
+
+sLsG	sLsG	sLsG	sLdG	sLsG	sLdG	sLdG	sLsG	dCdG	sGsG	sGsG	sGsG	sGdG	sGsG	sGsG	dCdG	sWdG	sWdG	dCdG	sGsG	sGsG	dCdG	dCdG	sGsG	sGdG	sGsG	sGsG	sGsG	dCdG	sWdG	sWsG	sWdG	sWsG	dCdG	sGsG	dCdG	dCdG	sGsG	sGsG	sGsG	sGdG	sGsG	dCdG	sWdG	sWsG	sWdG	sWdG	sWdG	dCdG	sGsG	dCdG	sWdG	sWdG	dCdG	
+sLsG	sLsG	sLsG	sLdG	sLsG	sLdG	sLdG	sLsG	dCdG	sGsG	sGsG	sGsG	sGdG	sGsG	sGsG	dCdG	sWdG	sWdG	dCdG	sGsG	sGsG	dCdG	dCdG	sGsG	sGdG	sGsG	sGsG	sGsG	dCdG	sWdG	sWsG	sWdG	sWsG	dCdG	sGsG	dCdG	dCdG	sGsG	sGsG	sGsG	sGdG	sGsG	dCdG	sWdG	sWsG	sWdG	sWdG	dCdG	sGsG	sGsG	dCdG	sWdG	sWdG	dCdG	
+

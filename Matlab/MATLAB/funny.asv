@@ -1,0 +1,5 @@
+function xx = funny(n)
+xx=[];i=1:n+1;k= odd(n)
+    t = j*4./k*pi
+    xx=[xx i];
+end

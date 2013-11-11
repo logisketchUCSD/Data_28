@@ -1,0 +1,16 @@
+01
+	Gate	Label	Wire
+Gate	192	4	2	
+Label	2	56	0	
+Wire	1	0	122	
+
+
+
+02
+	Gate	Label	Wire
+Gate	130	2	6	
+Label	1	42	0	
+Wire	2	1	153	
+
+
+
